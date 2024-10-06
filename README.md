@@ -1,1 +1,2 @@
-# lesson-2
+# docker-lessons
+Docker lessons content
